@@ -1,0 +1,2 @@
+[Errno 32] Broken pipe
+Exception on: 2021-02-22 14:09:41.263997
